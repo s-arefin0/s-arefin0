@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sultanul Arefin</h1>
+<h3 align="center">A programming enthusiast and learner</h3>
 
-<!--
-**s-arefin0/s-arefin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-arefin0" alt="s-arefin0" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python and GenAI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **s.sifatarefin@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/s-arefin0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-arefin0" height="30" width="40" /></a>
+<a href="https://fb.com/s-arefin0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s-arefin0" height="30" width="40" /></a>
+</p>
