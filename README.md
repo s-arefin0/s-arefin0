@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-arefin0" alt="s-arefin0" /></a> </p>
 
-- 🌱 I’m currently learning **Python and GenAI**
 
 - 📫 How to reach me **s.sifatarefin@gmail.com**
 
